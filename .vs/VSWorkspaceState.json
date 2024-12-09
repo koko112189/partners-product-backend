@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\partners-shop",
+    "\\partners-shop\\partners-shop",
+    "\\partners-shop\\partners-shop\\src\\Application",
+    "\\partners-shop\\partners-shop\\src\\Application\\DTOs",
+    "\\partners-shop\\partners-shop\\src\\Application\\Interfaces",
+    "\\partners-shop\\partners-shop\\src\\Application\\Services",
+    "\\partners-shop\\partners-shop\\src\\Domain",
+    "\\partners-shop\\partners-shop\\src\\Domain\\Entities",
+    "\\partners-shop\\partners-shop\\src\\Infrastructure",
+    "\\partners-shop\\partners-shop\\src\\Infrastructure\\Persistence"
+  ],
+  "SelectedNode": "\\partners-shop\\partners-shop.sln",
+  "PreviewInSolutionExplorer": false
+}
