@@ -78,5 +78,12 @@ Infrastructure: Implementa los repositorios, acceso a datos y configuración de 
 
 Presentation: Contiene los controladores de la API.
 
+# Decisiones de Diseño y Arquitectura
+Clean Architecture: enfoque para separar claramente las responsabilidades y facilitar la extensibilidad. Esto garantiza que la lógica empresarial esté desacoplada de la capa de acceso a datos y la presentación.
+
+Patrón Unit of Work: Se implementó para centralizar la gestión de transacciones y asegurar consistencia en las operaciones de datos.
+
+
+
 Desarrollado por John Edison Upegui Acevedo
 
